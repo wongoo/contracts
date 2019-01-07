@@ -67,3 +67,4 @@
 
 # A. 参考
 
+- [干货：创业团队的合伙协议怎么签？](https://www.cyzone.cn/article/123484.html)

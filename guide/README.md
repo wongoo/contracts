@@ -16,3 +16,5 @@
 
 - [如何起草完善的《创业合伙协议》](draft-thorough-start-business-contract.md)
 - [合伙协议的标配条款](start-business-contract-basics.md)
+- [创业合伙协议书标准模板](https://wenku.baidu.com/view/049a982a33687e21ae45a946.html)
+- [合伙创业，这份重要的协议该怎么签？](https://zhuanlan.zhihu.com/p/30661362)
