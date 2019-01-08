@@ -1,4 +1,4 @@
 # 合同协议
 
-- [创业协议](start-business/)
+- [创业协议](startbusiness/)
 
